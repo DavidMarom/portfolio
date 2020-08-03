@@ -1,0 +1,4 @@
+onMailSendClicked(){
+
+    sendMail();
+}

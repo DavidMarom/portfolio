@@ -1,4 +1,4 @@
-onMailSendClicked(){
+function onMailSendClicked(){
 
     sendMail();
 }

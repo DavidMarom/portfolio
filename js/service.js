@@ -94,6 +94,10 @@ function renderModals(portData) {
 
 function sendMail() {
 
-  
+  subEl = document.querySelector('#input-subject').value;
+  messEl = document.querySelector('#input-message').value;
 
+  var hrefStr = `https://mail.google.com/mail/?view=cm&fs=1&to=davidmarom.pro@gmail.com&su=${subEl}&body=${messEl}`;
+  window.open(hrefStr, '_blank');
+  
 }

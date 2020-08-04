@@ -10,9 +10,9 @@ var portData = [{
   {
     id: "b",
     name: "b",
-    title: "Better push those boxes",
-    desc: "lorem ipsum lorem ipsum lorem ipsum",
-    url: "#",
+    title: "Bookshop ERP",
+    desc: "Books inventory management system",
+    url: "https://davidmarom.github.io/book-shop-erp/",
     publishedAt: 1448693940000,
     labels: ["Matrixes", "keyboard events"],
   },

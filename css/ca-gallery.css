@@ -1,6 +1,7 @@
 body {
     overflow-x: hidden;
     font-family: 'Roboto Slab', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background-color: #eee;
 }
 p {
     line-height: 1.75;
@@ -191,7 +192,7 @@ body {
 header.masthead {
     text-align: center;
     color: white;
-    background-image: url("../img/header-bg.jpg");
+    background-image: url("../img/header-bg2.jpg");
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;
@@ -577,6 +578,7 @@ header.masthead .intro-text .intro-heading {
 }
 .about-description {
     max-width: 80%;
+    display: block !important;
 }
 @media (max-width: 800px) {
     .about-description {
@@ -767,4 +769,15 @@ fieldset[disabled] .btn-xl:hover {
 .container {
     padding-right: 0;
     padding-left: 0;
+}
+
+.footer2{
+    height: 50px;
+    background-color: #fff;
+}
+
+
+.footer3{
+    height: 50px;
+    background-color: #222222;
 }

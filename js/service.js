@@ -19,8 +19,8 @@ var portData = [{
   {
     id: "c",
     name: "c",
-    title: "Better push those boxes",
-    desc: "lorem ipsum lorem ipsum lorem ipsum",
+    title: "Misc. websites",
+    desc: "A collection of web development projects",
     url: "#",
     publishedAt: 1448693940000,
     labels: ["Matrixes", "keyboard events"],

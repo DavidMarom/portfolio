@@ -11,19 +11,19 @@ var portData = [{
     id: "b",
     name: "b",
     title: "Bookshop ERP",
-    desc: "Books inventory management system",
+    desc: "Books inventory management system, Includes CRUD, sorting and language support",
     url: "https://davidmarom.github.io/book-shop-erp/",
     publishedAt: 1448693940000,
-    labels: ["Matrixes", "keyboard events"],
+    labels: ["", ""],
   },
   {
     id: "c",
     name: "c",
-    title: "Misc. websites",
-    desc: "A collection of web development projects",
-    url: "#",
+    title: "Responsive Design",
+    desc: "An example for a 100% responsive website built from scratch",
+    url: "proj/misterBlogger/index.html",
     publishedAt: 1448693940000,
-    labels: ["Matrixes", "keyboard events"],
+    labels: ["", ""],
   }
 ]
 

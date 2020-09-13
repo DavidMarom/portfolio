@@ -33,6 +33,15 @@ var portData = [{
     url: "https://davidmarom.github.io/meme-generator/",
     publishedAt: 0,
     labels: ["", ""],
+  },
+  {
+    id: "e",
+    name: "e",
+    title: "Notes-Books App",
+    desc: "React app: an interactive notes app",
+    url: "https://davidmarom.github.io/appsus/#/note",
+    publishedAt: 0,
+    labels: ["", ""],
   }
 ]
 

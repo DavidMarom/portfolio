@@ -784,3 +784,10 @@ fieldset[disabled] .btn-xl:hover {
     height: 50px;
     background-color: #222222;
 }
+
+.prj-btn{
+    width:200px;
+    height: 100px;
+    background-color: #dcab01;
+    color: #ffffff;
+}

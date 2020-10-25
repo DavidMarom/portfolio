@@ -48,7 +48,7 @@ var portData = [{
   name: "f",
   title: "Activities Marketplace",
   desc: "Health-e is a markeplace for life-style activities. Anyone can attend or organaize a public activity. [MongoDB, React]",
-  url: "https://health5.herokuapp.com/#/",
+  url: "https://health-e.herokuapp.com/#/",
   publishedAt: 0,
   labels: ["", ""],
 }
